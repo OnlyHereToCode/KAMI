@@ -1,3 +1,5 @@
+#### This is now a continuation of zeroeightysix's KAMI. Please make an issue there if it does not happen here, and vice versa. Note the zeroeightysix's may not recieve frequent updates anymore.
+
 # KAMI
 
 ##### please note the current build status is based on the master branch, which won't be updated as often. I will replace this with my own or with a manual build status as soon as I can (05/10/19). 
