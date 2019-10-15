@@ -108,6 +108,12 @@ If you prefer copying it manually, find a file in `build/libs` called `KAMI-<min
 
 Note: This assumes your minecraft folder is in the default location under your home folder.
 
+## TODO
+
+- [ ] fix 3 sprints existing
+- [ ] clean up the readme
+- [ ] possibly use a wiki?
+
 ## Contributing
 
 You are free to clone, modify KAMI and make pull requests as you wish. To set up your development environment, make use of the following commands:
