@@ -1,5 +1,5 @@
 #### This is now a continuation of zeroeightysix's KAMI. Please make an issue there if your bug does not happen here, and vice versa. 
-#### Note that zeroeightysix's may not recieve frequent updates anymore.
+#### Note that zeroeightysix's may not receive frequent updates anymore.
 
 # KAMI
 
