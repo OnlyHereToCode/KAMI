@@ -119,7 +119,7 @@ Note: This assumes your minecraft folder is in the default location under your h
 You are free to clone, modify KAMI and make pull requests as you wish. To set up your development environment, make use of the following commands:
 
 ```
-git clone https://github.com/zeroeightysix/KAMI/
+git clone https://github.com/S-B99/KAMI/
 cd KAMI
 ```
 
