@@ -7,7 +7,7 @@
 
 ##### please note the current build status is based on the master branch, which won't be updated as often. I will replace this with my own or with a manual build status as soon as I can (05/10/19). 
 
-#### manual status: it builds ([commit](https://github.com/S-B99/KAMI/commit/972902d050e9b85511f832629e72481b4fdf3983))
+##### manual status: it builds ([commit](https://github.com/S-B99/KAMI/commit/972902d050e9b85511f832629e72481b4fdf3983))
 [![Build Status](https://travis-ci.com/zeroeightysix/KAMI.svg?branch=master)](https://travis-ci.com/zeroeightysix/KAMI)
 [![Issues Master](https://img.shields.io/github/issues/zeroeightysix/KAMI?label=issues%20master)](https://github.com/zeroeightysix/kami/issues)
 [![Issues](https://img.shields.io/github/issues/S-B99/kami.svg)](https://github.com/S-B99/kami/issues)
