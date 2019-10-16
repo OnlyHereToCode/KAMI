@@ -1,6 +1,8 @@
 #### This is now a continuation of zeroeightysix's KAMI. Please make an issue there if your bug does not happen here, and vice versa. 
 #### Note that zeroeightysix's may not receive frequent updates anymore.
 
+#### please use the release, the current build has a chance of not working, I am currently reimplementing changes done to master, however due to being in the Netherlands I will not be able to actively work on it for the week of October 6-13
+
 # KAMI
 
 ##### please note the current build status is based on the master branch, which won't be updated as often. I will replace this with my own or with a manual build status as soon as I can (05/10/19). 
@@ -19,9 +21,9 @@ This is by no means a finished project, nor is it a "cheat" or "hack" for anythi
 
 ## Status
 
-### please use the release, the current build has a chance of not working, I am currently reimplementing changes done to master, however due to being in the Netherlands I will not be able to actively work on it for the week of October 6-13
 
 [Everything here is planned for sure.](https://github.com/zeroeightysix/KAMI/pull/114), [along with here](https://github.com/S-B99/KAMI/issues/12)
+
 This is currently in slowed development. Maintainance and further development is planned in the next couple months.
 
 ## Preview
