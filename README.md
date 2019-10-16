@@ -21,7 +21,7 @@ This is by no means a finished project, nor is it a "cheat" or "hack" for anythi
 
 ### please use the release, the current build has a chance of not working, I am currently reimplementing changes done to master, however due to being in the Netherlands I will not be able to actively work on it for the week of October 6-13
 
-[Everything here is planned for sure.](#114), [along with here](#12)
+[Everything here is planned for sure.](https://github.com/zeroeightysix/KAMI/pull/114), [along with here](https://github.com/S-B99/KAMI/issue/12)
 This is currently in slowed development. Maintainance and further development is planned in the next couple months.
 
 ## Preview
