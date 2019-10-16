@@ -82,7 +82,7 @@ KAMI is a forge mod. Start by downloading the latest version of [1.12.2 forge](h
 ## Building
 #### Linux
 
-You can build by running these commands (without these <>) in a terminal with the current directory being KAMI. (EG. `cd ~/Downloads/KAMI`)
+You can build by running these commands (without the <>) in a terminal with the current directory being KAMI. (EG. `cd ~/Downloads/KAMI`)
 ```
 ./gradlew <args>
 ```
@@ -106,7 +106,7 @@ Note: Any argument other then `build` assumes you downloaded KAMI to a nested fo
 
 #### Windows
 
-You can build by running these commands (without these <>) in a terminal with the current directory being KAMI. (EG. `cd C:\Users\Username\Downloads\KAMI`)
+You can build by running these commands in a terminal with the current directory being KAMI. (EG. `cd C:\Users\Username\Downloads\KAMI`)
 ```
 gradlew.bat build
 ```
