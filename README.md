@@ -39,7 +39,7 @@ This is currently in slowed development. Maintainance and further development is
 
 </details>
 
-## How do I
+# How do I
 
 ##### Open the GUI
 Press Y.
