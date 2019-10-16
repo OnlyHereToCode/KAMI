@@ -1,7 +1,7 @@
 #### This is now a continuation of zeroeightysix's KAMI. Please make an issue there if your bug does not happen here, and vice versa. 
 #### Note that zeroeightysix's may not receive frequent updates anymore.
 
-#### please use the release, the current build has a chance of not working, I am currently reimplementing changes done to master, however due to being in the Netherlands I will not be able to actively work on it for the week of October 6-13
+#### please use the release, the current build has a chance of not working, I am currently reimplementing changes done to master
 
 # KAMI
 
