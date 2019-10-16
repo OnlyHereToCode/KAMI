@@ -102,7 +102,7 @@ If you prefer copying it manually, find a file in `build/libs` called `KAMI-<min
 
 Note: This assumes your minecraft folder is in the default location under your home folder.
 
-Note: Any argument other then `build` assumes you downloaded KAMI to a nested folder inside your home folder. For example `~/Downloads/KAMI` or `~/Documents/KAMI`
+Note: Any argument other then `build` assumes you downloaded KAMI to a nested folder inside your home folder. For example `~/Downloads/KAMI` or `~/Documents/KAMI`. This will be fixed as per [issue #15](https://github.com/S-B99/KAMI/issues/15)
 
 #### Windows
 
