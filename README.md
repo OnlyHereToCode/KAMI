@@ -50,7 +50,7 @@ The default prefix is `.`. Commands are used through chat, use `.commands` for a
 ##### Bind modules
 Run `.bind <module> <key>`.
 
-Right Shift is `shift` and Left Arrow is `left` for example.
+Right Shift is `shift` and Left Arrow is `left` for example, while letters are just `y`.
 
 ##### Change command prefix
 By using the command `prefix <prefix>` without the `<>`(by default, `. <newprefix>`) or after having ran KAMI (make sure it's closed), editing your configuration file (find it using `config path` in-game) and changing the value of `commandPrefix` to change the prefix.
