@@ -67,8 +67,8 @@ If you experience an issue and it's not listed there, please [open a new issue](
 KAMI is a forge mod. Start by downloading the latest version of [1.12.2 forge](https://files.minecraftforge.net/).
 1. Install forge
 2. Navigate to your `.minecraft` directory.
-   * **Windows**: `%appdata%/.minecraft`
    * **Linux**: `~/.minecraft`
+   * **Windows**: `%appdata%/.minecraft`
 3. Navigate to the `mods` directory. If it doesn't exist, create it.
 4. Obtain the KAMI `.jar` file.
    * By **downloading** it: see [releases](../../releases)
