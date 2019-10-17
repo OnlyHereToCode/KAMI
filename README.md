@@ -7,6 +7,8 @@
 
 ##### please note the current build status is based on the master branch, which won't be updated as often. I will replace this with my own or with a manual build status as soon as I can (05/10/19). 
 
+##### why do I get "unknown paramater "login"" when running `travis login` send help please
+
 ##### manual status: it builds ([commit link](https://github.com/S-B99/KAMI/commit/972902d050e9b85511f832629e72481b4fdf3983))
 [![Issues](https://img.shields.io/github/issues/S-B99/kami.svg)](https://github.com/S-B99/kami/issues)
 [![Discord Mine](https://img.shields.io/discord/573954110454366214?label=chat%20on%20mine&logo=discord&logoColor=white)](https://discord.gg/KfpqwZB)
