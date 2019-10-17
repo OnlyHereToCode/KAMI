@@ -11,7 +11,8 @@
 [![Build Status](https://travis-ci.com/zeroeightysix/KAMI.svg?branch=master)](https://travis-ci.com/zeroeightysix/KAMI)
 [![Issues Master](https://img.shields.io/github/issues/zeroeightysix/KAMI?label=issues%20master)](https://github.com/zeroeightysix/kami/issues)
 [![Issues](https://img.shields.io/github/issues/S-B99/kami.svg)](https://github.com/S-B99/kami/issues)
-[![Discord](https://img.shields.io/badge/chat-on%20discord-brightgreen.svg)](http://discord.gg/9hvwgeg)
+[![Discord Master](https://img.shields.io/badge/chat-on%20discord-brightgreen.svg)](http://discord.gg/9hvwgeg)
+[![Discord Main](https://img.shields.io/discord/573954110454366214?label=chat%20on%20main&logo=discord&logoColor=white)](https://discord.gg/KfpqwZB)
 
 A Minecraft utility mod for anarchy servers.
 
