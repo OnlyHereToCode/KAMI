@@ -1,7 +1,7 @@
 #### This is now a continuation of zeroeightysix's KAMI. Please make an issue there if your bug does not happen here, and vice versa. 
 #### Note that zeroeightysix's may not receive frequent updates anymore.
 
-#### please use the release, the current build ~~edited~~ does not work
+#### please use the release, the current build ~~edited~~ it does not work, gradle mcp srg source went down
 
 # KAMI
 
