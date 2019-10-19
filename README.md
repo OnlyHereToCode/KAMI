@@ -97,16 +97,21 @@ mkdir
 rmOld
 copy
 ```
-If you use more then one then it must be in that order.
+If you use more then one then it must be in that order. 
 
-Build is required, mkdir makes the mods/1.12.2 directory, rmOld removes old versions of KAMI in that directory, and copy copies the build release to the mods/1.12.2 directory. 
+Build is required, `mkdir` makes the `mods/1.12.2` directory, `rmOld` removes old versions of KAMI\* in that directory, and `copy` copies the build release to the `mods/1.12.2` directory. 
+
+\*`rmOld` removes any jars ending in `-release.jar`, which is the format KAMI uses. If you use any other mod that uses that naming scheme please remove old versions manually.
 
 If you prefer copying it manually, find a file in `build/libs` called `KAMI-<minecraftVersion>-<kamiVersion>-**release**.jar` which you can copy to the `mods/1.12.2` folder of a minecraft instance that has forge installed.
 
 Note: This assumes your minecraft folder is in the default location under your home folder.
 
+<<<<<<< HEAD
 Note: Any argument other then `build` assumes you downloaded KAMI to a nested folder inside your home folder. For example `~/Downloads/KAMI` or `~/Documents/KAMI`. This will be fixed as per [issue #15](https://github.com/S-B99/KAMI/issues/15)
 
+=======
+>>>>>>> 8c7508f... update readme with disclaimer
 #### Windows
 
 You can build by running these commands in a terminal with the current directory being KAMI. (EG. `cd C:\Users\Username\Downloads\KAMI`)
@@ -118,6 +123,7 @@ To copy on windows run `autocopy.bat`
 
 If you prefer copying it manually, find a file in `build/libs` called `KAMI-<minecraftVersion>-<kamiVersion>-**release**.jar` which you can copy to the `mods\1.12.2` folder of a minecraft instance that has forge installed.
 
+<<<<<<< HEAD
 Note: This assumes your minecraft folder is in the default location under your home folder.
 
 ## TODO
@@ -145,6 +151,9 @@ gradlew.bat setupDecompWorkspace
 Import KAMI into your IDE of choice. If you use IntelliJ, import from the `build.gradle` file and run `gradlew.bat genIntellijRuns`
 
 If you do not wish to run from an IDE, use `gradlew.bat runClient` to run KAMI.
+=======
+Note: This assumes your minecraft folder is in the default location under your %appdata% folder.
+>>>>>>> 8c7508f... update readme with disclaimer
 
 ## Thank you
 
